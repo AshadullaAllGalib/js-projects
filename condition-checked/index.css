@@ -1,0 +1,28 @@
+.conditon {
+  text-align: center;
+}
+.conditon label {
+  font-size: 24px;
+}
+.conditon #myText {
+  margin: 15px 0 15px 0;
+}
+
+.checking {
+  text-align: center;
+  padding-top: 40px;
+}
+.checking label {
+  font-size: 16px;
+}
+
+#mySubmit {
+  display: block;
+  margin: 20px auto 0 auto;
+  padding: 3px 5px;
+  font-size: 14px;
+  border: none;
+  background-color: rgb(169, 203, 211);
+  border-radius: 3px;
+  cursor: pointer;
+}
