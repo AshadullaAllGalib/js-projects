@@ -18,3 +18,8 @@ first.replaceWith(newEl);
 
 const last = document.querySelector('li:last-child')
 last.remove();
+
+// eventlistener
+document.querySelector('#btn').addEventListener('click', () => {
+    alert('Why');
+})
